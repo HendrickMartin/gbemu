@@ -1,0 +1,6 @@
+gbemu.exe
+*.gb
+*.sav
+out.txt
+frame.bmp
+gb-test-roms/
